@@ -19,20 +19,32 @@ After renaming, all files are sorted by size, and a numeric index is added as a 
   - `beautifulsoup4`
 
 You can install them with:
+
+```bash
 pip install requests beautifulsoup4
+```
 
-📦 How to Use
-Clone the repository:
+## 📦 How to Use
+
+1. Clone the repository:
+```bash
 git clone https://github.com/marvinCBB/automation-scripts.git
+```
 
-Navigate into the project folder:
+2. Navigate into the project folder:
+```bash
 cd automation-scripts
+```
 
-Run the script:
+3. Run the script:
+```bash
 python wikipedia_fetcher.py
+```
+
 You can customize the list of Wikipedia pages directly inside the script.
 
-👨‍💻 Author
-marvinCBB
-Freelance automation & coding enthusiast
-Follow me on GitHub: github.com/marvinCBB
+## 👨‍💻 Author
+
+**marvinCBB**  
+Freelance automation & coding enthusiast  
+Follow me on GitHub: [github.com/marvinCBB](https://github.com/marvinCBB)
