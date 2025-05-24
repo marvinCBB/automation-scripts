@@ -40,8 +40,9 @@ for i, title in enumerate(titles):
         temp_filename.write_text(content, encoding='utf-8')
         stats = temp_filename.stat()
         size.append(stats.st_size)  # in bytes
-        created = datetime.datetime.fromtimestamp(stats.st_birthtime)  # On Unix this is *change* time
-        temp_filename.write_text(f'FILE CREATED ON: {created}\nSIZE:{size[-1]}\n'+content, encoding='utf-8')
+        created = datetime.datetime.fromtimestamp(stats.st_birthtime)
+        formatted_created = created.strftime('%Y-%m-%d %H:%M:%S')  # This formats seconds as integers
+        temp_filename.write_text(f'FILE CREATED ON: {formatted_created}\nSIZE:{size[-1]}\n'+content, encoding='utf-8')
         temp_files.append(temp_filename)
     except Exception as e:
         print(f"Failed to fetch '{title}': {e}")

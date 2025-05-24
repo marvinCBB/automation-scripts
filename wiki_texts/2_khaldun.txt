@@ -1,0 +1,35 @@
+FILE CREATED ON: 2025-05-23 21:38:12
+SIZE:6719
+Kitāb al-ʿIbar (Arabic: كتاب العِبَر 'Book of Lessons') is a 14th-century historical encyclopedia in seven volumes written by the Arab sociologist and historian Ibn Khaldun. Its prolegomenon, or introduction, is al-Muqaddima. Kitāb al-ʿIbar was also printed in Arabic under the title Tarīkh Ibn Khaldūn (تاريخ ابن خلدون 'History of Ibn Khaldun').
+
+
+== Name ==
+Its fuller name, in the fashion of Arabic works of the time, is a rhyming couplet: Kitāb al-ʿIbar, wa-Dīwān al-Mubtadaʾ wa-l-Khabar (Arabic: كتاب العبر، وديوان المبتدأ والخبر 'The Book of Lessons and Record of Beginnings and News'). The word mubtadaʾ, means 'point of beginning' and khabar means 'piece of news/information,' but they can also mean grammatical 'subject' and 'predicate,' respectively.  
+There is also the subtitle, another couplet fitting the rhyme: fī Taʾrīkh al-ʿArab wa-l-Barbar, wa-Man ʿĀṣarahum min Dhawī ash-Shaʾn al-ʾAkbār  (في تأريخ العرب والبربر ومن عاشرهم من ذوي الشأن الأكبر 'And the History of the Arabs and the Berbers and The Most Significant of Their Contemporaries).  
+
+
+== Contents ==
+Kitab al-Ibar began as a history of the Berbers and expanded to a universal history in seven books.
+
+Book 1; Al-Muqaddimah ('The Introduction'),  a socio-economic-geographical universal history of empires, and the best known of his works.
+Books 2-5; World History up to the author's own time.
+Books 6-7; Historiography of the Berbers and the Maghreb.  Khaldun departs from the classical style of Arab historians by synthesising multiple, sometimes contradictory, sources without citations.  He reproduces some errors originating probably from his 14th-century Fez source, the work Rawḍ al-Qirṭās by Ibn Abi Zar, yet  Al-'Ibar remains an invaluable source of Berber history.
+Concerning the discipline of sociology, he described the dichotomy of sedentary life versus nomadic life as well as the inevitable loss of power that occurs when warriors conquer a city. According to the Arab scholar Sati' al-Husri, the Muqaddimah may be read as a sociological work. The work is based around Ibn Khaldun's central concept of 'aṣabiyyah, which has been translated as "social cohesion", "group solidarity", or "tribalism". This social cohesion arises spontaneously in tribes and other small kinship groups; it can be intensified and enlarged by a religious ideology. Ibn Khaldun's analysis looks at how this cohesion carries groups to power but contains within itself the seeds – psychological, sociological, economic, political – of the group's downfall, to be replaced by a new group, dynasty or empire bound by a stronger (or at least younger and more vigorous) cohesion. Some of Ibn Khaldun's views, particularly those concerning the Zanj people of sub-Saharan Africa, have been cited as racist, though they were not uncommon for their time. According to the scholar Abdelmajid Hannoum, Ibn Khaldun's description of the distinctions between Berbers and Arabs were misinterpreted by the translator William McGuckin de Slane, who wrongly inserted a "racial ideology that sets Arabs and Berbers apart and in opposition" into his translation of part of`Ibar translated under the title Histoire des Berbères .
+Perhaps the most frequently cited observation drawn from Ibn Khaldūn's work is the notion that when a society becomes a great civilization, its high point is followed by a period of decay. This means that the next cohesive group that conquers the diminished civilization is, by comparison, a group of barbarians. Once the barbarians solidify their control over the conquered society, however, they become attracted to its more refined aspects, such as literacy and arts, and either assimilate into or appropriate such cultural practices. Then, eventually, the former barbarians will be conquered by a new set of barbarians, who will repeat the process.
+Georgetown University Professor Ibrahim Oweiss, an economist and historian, notes that Schumpeter and David Hume both proposed a labor theory of value, though Khaldun did not refer to it as either a labor theory of value or theory.
+Ibn Khaldun outlines an early example of political economy. He describes the economy as being composed of value-adding processes; that is, labor and skill is added to techniques and crafts and the product is sold at a higher value .  He also made the distinction between "profit" and "sustenance", in modern political economy terms, surplus and that required for the reproduction of classes respectively.  He also calls for the creation of a science to explain society and goes on to outline these ideas in his major work, the Muqaddimah. In Al-Muqaddimah Khaldun states, “Civilization and its well-being, as well as business prosperity, depend on productivity and people’s efforts in all directions in their own interest and profit”.
+Ibn Khaldun diverged from norms that Muslim historians followed and rejected their focus on the credibility of the transmitter and focused instead on the validity of the stories and encouraged critical thinking.
+Ibn Khaldun also outlines early theories of division of labor, taxes, scarcity, and economic growth. 
+Khaldun was also one of the first to study the origin and causes of poverty; he argued that poverty was a result of the destruction of morality and human values. He also looked at what factors contribute to wealth such as consumption, government, and investment—a precursor to our modern GDP-formula. Khaldun also argued that poverty was not necessarily a result of poor financial decision-making but of external consequences and therefore the government should be involved in alleviating poverty.
+Ibn Khaldun also believed that the currency of an Islamic monetary system should have intrinsic value and therefore be made of gold and silver (such as the dirham). He emphasized that the weight and purity of these coins should be strictly followed: the weight of one dinar should be one mithqal (the weight of 72 grains of barley, roughly 4.25 grams) and the weight of 7 dinar should be equal to weight of 10 dirhams (7/10 of a mithqal or 2.96 grams).
+
+
+== Influence ==
+Frank Herbert's 1965 novel Dune includes a book called the Kitab al-Ibar which is a handbook for desert survival on Arrakis, and occasionally quotes from the (fictional) book within the novel.  Herbert was also clearly influenced by Khaldun's thesis that nomads such as the Berbers and Mongols are powerful and can overrun stagnant societies, but become complacent themselves around four generations after the conquest.
+
+
+== See also ==
+Muqaddimah
+
+
+== References ==
